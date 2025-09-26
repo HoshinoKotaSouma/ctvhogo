@@ -1,0 +1,14 @@
+{
+  "users": {
+    "admin": {
+      "username": "giaodeptraichimto",
+      "password": "conchogiao",
+      "role": "admin"
+    },
+    "ctv": {
+      "username": "ctvhg@gmail.com",
+      "password": "ctvgiaobeo",
+      "role": "ctv"
+    }
+  }
+}
