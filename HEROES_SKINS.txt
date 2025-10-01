@@ -1,4 +1,4 @@
-const HERO_SKINS = {
+{
   "Airi": ["Bích hải thánh nữ", "Bạch Kiemono", "Kiemono", "Thứ nguyên Vệ thần"],
   "Aleister": ["HLV bất bại"],
   "Alice": ["Eternal Sailor Chibi Moon", "Phi hành gia", "Quân nhạc Athanor", "The Butterfly Mansion Girl"],
@@ -67,4 +67,4 @@ const HERO_SKINS = {
   "Zata": ["Chí tôn Tà Phượng", "Tác gia đương đại"],
   "Zephys": ["Inosuke Hashibira", "Kỷ Nguyên Hổ Phách", "Siêu việt"],
   "Điêu Thuyền": ["Thất Tịch Tiên Tử", "Tiệc bãi biển", "Tuế Hàn Đỗ Quyên", "WaVe"]
-};
+}
