@@ -1,4 +1,4 @@
-const HERO_NAMES = [
+[
   "Airi", "Aleister", "Alice", "Allain", "Annette", "Aya", "Arduin", "Arthur", "Arum", 
   "Bijan", "Billow", "Biron", "Bolt", "Bright", "Butterfly", "Capheny", "Cresht", 
   "Eland'orr", "Elsu", "Enzo", "Erin", "Errol", "Fennik", "Florentino", "Gildur", 
@@ -8,4 +8,4 @@ const HERO_NAMES = [
   "Rourke", "Ryoma", "Sephera", "Sinestrea", "Slimz", "Stuart", "Taara", "Tel'Annas", 
   "Triệu Vân", "Tulen", "Valhein", "Veera", "Veres", "Violet", "Xeniel", "Yan", 
   "Yena", "Yorn", "Zata", "Zephys", "Điêu Thuyền"
-];
+]
