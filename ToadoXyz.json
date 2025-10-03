@@ -1,0 +1,28 @@
+{
+  "image": {
+    "url": "https://sf-static.upanhlaylink.com/img/image_20251003846f12fa85a39b8846288c05974d396e.jpg",
+    "originalWidth": 807,
+    "originalHeight": 1280
+  },
+  "tuong": {
+    "original": {
+      "x": 246,
+      "y": 660
+    }
+  },
+  "skin": {
+    "original": {
+      "x": 252,
+      "y": 746
+    }
+  },
+  "crop": {
+    "original": {
+      "x": -1,
+      "y": 764,
+      "w": 808,
+      "h": 514
+    }
+  },
+  "generatedAt": "2025-10-03T16:45:58.997Z"
+}
