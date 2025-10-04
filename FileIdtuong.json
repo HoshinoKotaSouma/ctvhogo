@@ -1,0 +1,932 @@
+[
+  {
+    "id": "001",
+    "skin": "Airi Bích hải thánh nữ",
+    "url": ""
+  },
+  {
+    "id": "002",
+    "skin": "Airi Bạch Kiemono",
+    "url": ""
+  },
+  {
+    "id": "003",
+    "skin": "Airi Kiemono",
+    "url": ""
+  },
+  {
+    "id": "004",
+    "skin": "Airi Thứ nguyên Vệ thần",
+    "url": ""
+  },
+  {
+    "id": "005",
+    "skin": "Aleister HLV bất bại",
+    "url": ""
+  },
+  {
+    "id": "006",
+    "skin": "Alice Eternal Sailor Chibi Moon",
+    "url": ""
+  },
+  {
+    "id": "007",
+    "skin": "Alice Phi hành gia",
+    "url": ""
+  },
+  {
+    "id": "008",
+    "skin": "Alice Quân nhạc Athanor",
+    "url": ""
+  },
+  {
+    "id": "009",
+    "skin": "Alice The Butterfly Mansion Girl",
+    "url": ""
+  },
+  {
+    "id": "010",
+    "skin": "Allain Hắc kiếm sĩ Kirito",
+    "url": ""
+  },
+  {
+    "id": "011",
+    "skin": "Allain Kirito",
+    "url": ""
+  },
+  {
+    "id": "012",
+    "skin": "Allain Kirito Hắc kiếm sĩ",
+    "url": ""
+  },
+  {
+    "id": "013",
+    "skin": "Allain Tuyết sơn song kiếm",
+    "url": ""
+  },
+  {
+    "id": "014",
+    "skin": "Annette Nữ sinh trung học",
+    "url": ""
+  },
+  {
+    "id": "015",
+    "skin": "Arduin Bạch vệ chiến giáp",
+    "url": ""
+  },
+  {
+    "id": "016",
+    "skin": "Arduin Ngạo Hổ Hàn Đao",
+    "url": ""
+  },
+  {
+    "id": "017",
+    "skin": "Arthur Siêu Việt",
+    "url": ""
+  },
+  {
+    "id": "018",
+    "skin": "Arum Vũ khúc long hổ",
+    "url": ""
+  },
+  {
+    "id": "019",
+    "skin": "Arum Vũ khúc thần sứ",
+    "url": ""
+  },
+  {
+    "id": "020",
+    "skin": "Bijan Hoàng kim cơ giáp",
+    "url": ""
+  },
+  {
+    "id": "021",
+    "skin": "Bijan Kình thiên Long Kỵ",
+    "url": ""
+  },
+  {
+    "id": "022",
+    "skin": "Bijan Lữ Hành Thời Không",
+    "url": ""
+  },
+  {
+    "id": "023",
+    "skin": "Billow Thiên Tướng - Độ Ách",
+    "url": ""
+  },
+  {
+    "id": "024",
+    "skin": "Biron Yuji Itadori",
+    "url": ""
+  },
+  {
+    "id": "025",
+    "skin": "Bolt Baron Thiên Phủ - Tư Mệnh",
+    "url": ""
+  },
+  {
+    "id": "026",
+    "skin": "Bright Toshiro Hitsugaya",
+    "url": ""
+  },
+  {
+    "id": "027",
+    "skin": "Butterfly Asuna Tia chớp",
+    "url": ""
+  },
+  {
+    "id": "028",
+    "skin": "Butterfly Kim ngư thần nữ",
+    "url": ""
+  },
+  {
+    "id": "029",
+    "skin": "Butterfly Nữ Quái Nổi Loạn",
+    "url": ""
+  },
+  {
+    "id": "030",
+    "skin": "Butterfly Nữ thần Khởi nguyên",
+    "url": ""
+  },
+  {
+    "id": "031",
+    "skin": "Butterfly Phượng Cửu Thiên",
+    "url": ""
+  },
+  {
+    "id": "032",
+    "skin": "Butterfly Rockgirl Siêu Đẳng",
+    "url": ""
+  },
+  {
+    "id": "033",
+    "skin": "Butterfly Stacia",
+    "url": ""
+  },
+  {
+    "id": "034",
+    "skin": "Butterfly Thánh nữ khởi nguyên",
+    "url": ""
+  },
+  {
+    "id": "035",
+    "skin": "Capheny Harley Quinn",
+    "url": ""
+  },
+  {
+    "id": "036",
+    "skin": "Capheny Kimono",
+    "url": ""
+  },
+  {
+    "id": "037",
+    "skin": "Cresht Bách Tướng Lão Tam",
+    "url": ""
+  },
+  {
+    "id": "038",
+    "skin": "Eland'orr Tuxedo",
+    "url": ""
+  },
+  {
+    "id": "039",
+    "skin": "Eland'orr Tuxedo Mask",
+    "url": ""
+  },
+  {
+    "id": "040",
+    "skin": "Elsu DJ <Siêu Đẳng>",
+    "url": ""
+  },
+  {
+    "id": "041",
+    "skin": "Elsu Sứ giả tận thế",
+    "url": ""
+  },
+  {
+    "id": "042",
+    "skin": "Elsu Trấn thiên phi hồ",
+    "url": ""
+  },
+  {
+    "id": "043",
+    "skin": "Enzo Kurapika",
+    "url": ""
+  },
+  {
+    "id": "044",
+    "skin": "Enzo Sát thần Bạch Hổ",
+    "url": ""
+  },
+  {
+    "id": "045",
+    "skin": "Erin Huyền Ảnh Mị điệp",
+    "url": ""
+  },
+  {
+    "id": "046",
+    "skin": "Erin Huyễn Ảnh Mị Điệp",
+    "url": ""
+  },
+  {
+    "id": "047",
+    "skin": "Erin Tình yêu cổ tích",
+    "url": ""
+  },
+  {
+    "id": "048",
+    "skin": "Errol Genos",
+    "url": ""
+  },
+  {
+    "id": "049",
+    "skin": "Fennik Phong Tranh Thám Xuân",
+    "url": ""
+  },
+  {
+    "id": "050",
+    "skin": "Florentino Bá vương Âm nhạc",
+    "url": ""
+  },
+  {
+    "id": "051",
+    "skin": "Florentino Hisoka",
+    "url": ""
+  },
+  {
+    "id": "052",
+    "skin": "Florentino Kỷ Nguyên Hổ Phách",
+    "url": ""
+  },
+  {
+    "id": "053",
+    "skin": "Florentino SEVEN",
+    "url": ""
+  },
+  {
+    "id": "054",
+    "skin": "Gildur Tiệc Bãi Biển",
+    "url": ""
+  },
+  {
+    "id": "055",
+    "skin": "Hayate siêu đạo chích Kid",
+    "url": ""
+  },
+  {
+    "id": "056",
+    "skin": "Hayate Thống Soái Dạ Ưng",
+    "url": ""
+  },
+  {
+    "id": "057",
+    "skin": "Hayate Tu Di Thánh Đế",
+    "url": ""
+  },
+  {
+    "id": "058",
+    "skin": "Hayate Tử thần vũ trụ",
+    "url": ""
+  },
+  {
+    "id": "059",
+    "skin": "Helen Bé hoa xuân",
+    "url": ""
+  },
+  {
+    "id": "060",
+    "skin": "Ilumia Khải Huyền Thiên Hậu",
+    "url": ""
+  },
+  {
+    "id": "061",
+    "skin": "Ilumia Lưỡng Nghi Long Hậu",
+    "url": ""
+  },
+  {
+    "id": "062",
+    "skin": "Ilumia Nộ hải Thiên ngư",
+    "url": ""
+  },
+  {
+    "id": "063",
+    "skin": "Kaine Chiến Binh Kim Quang",
+    "url": ""
+  },
+  {
+    "id": "064",
+    "skin": "Keera Nezuko Kamado",
+    "url": ""
+  },
+  {
+    "id": "065",
+    "skin": "Krixi Lốc xoáy kinh hoàng Tatsumaki",
+    "url": ""
+  },
+  {
+    "id": "066",
+    "skin": "Krixi Tiệc Bãi Biển",
+    "url": ""
+  },
+  {
+    "id": "067",
+    "skin": "Krixi Phù Thuỷ Thời Không",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_101.png"
+  },
+  {
+    "id": "068",
+    "skin": "Lauriel Phi thiên",
+    "url": ""
+  },
+  {
+    "id": "069",
+    "skin": "Lauriel Thiên nữ Dạ Ưng",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_102.png"
+  },
+  {
+    "id": "070",
+    "skin": "Lauriel Thiên sứ công nghệ",
+    "url": ""
+  },
+  {
+    "id": "071",
+    "skin": "Lauriel Thánh quang sứ",
+    "url": ""
+  },
+  {
+    "id": "072",
+    "skin": "Lauriel Thứ nguyên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "073",
+    "skin": "Lauriel Tinh vân sứ",
+    "url": ""
+  },
+  {
+    "id": "074",
+    "skin": "Lauriel Vũ khúc miêu ảnh",
+    "url": ""
+  },
+  {
+    "id": "075",
+    "skin": "Laville Chiến thần MOBA",
+    "url": ""
+  },
+  {
+    "id": "076",
+    "skin": "Laville Vệ binh giáng sinh",
+    "url": ""
+  },
+  {
+    "id": "077",
+    "skin": "Laville Xạ Thần Tinh Vệ",
+    "url": ""
+  },
+  {
+    "id": "078",
+    "skin": "Liliana Lưu thủy Thần long",
+    "url": ""
+  },
+  {
+    "id": "079",
+    "skin": "Liliana Nguyệt mị ly",
+    "url": ""
+  },
+  {
+    "id": "080",
+    "skin": "Liliana Tiểu thơ anh đào",
+    "url": ""
+  },
+  {
+    "id": "081",
+    "skin": "Liliana Tân nguyệt mị ly",
+    "url": ""
+  },
+  {
+    "id": "082",
+    "skin": "Liliana WaVe",
+    "url": ""
+  },
+  {
+    "id": "083",
+    "skin": "Liliana Wave Phụ Kiện Trắng",
+    "url": ""
+  },
+  {
+    "id": "084",
+    "skin": "Lindis Đồng phục Shihakusho",
+    "url": ""
+  },
+  {
+    "id": "085",
+    "skin": "Lữ Bố Cửu Thiên Lôi Thần",
+    "url": ""
+  },
+  {
+    "id": "086",
+    "skin": "Lữ Bố Ichigo Kurosaki",
+    "url": ""
+  },
+  {
+    "id": "087",
+    "skin": "Lữ Bố Tiệc Bãi Biển",
+    "url": ""
+  },
+  {
+    "id": "088",
+    "skin": "Lữ Bố Tư lệnh Robot",
+    "url": ""
+  },
+  {
+    "id": "089",
+    "skin": "Maloch Đại Tướng Robot",
+    "url": ""
+  },
+  {
+    "id": "090",
+    "skin": "Maloch Đại tướng Rô bốt",
+    "url": ""
+  },
+  {
+    "id": "091",
+    "skin": "Mina Linh Xà yêu vũ",
+    "url": ""
+  },
+  {
+    "id": "092",
+    "skin": "Murad Byakuya Kuchiki",
+    "url": ""
+  },
+  {
+    "id": "093",
+    "skin": "Murad Chí tôn thần kiếm",
+    "url": ""
+  },
+  {
+    "id": "094",
+    "skin": "Murad Siêu việt",
+    "url": ""
+  },
+  {
+    "id": "095",
+    "skin": "Murad Siêu việt 2.0",
+    "url": ""
+  },
+  {
+    "id": "096",
+    "skin": "Murad Zenitsu Agatsuma",
+    "url": ""
+  },
+  {
+    "id": "097",
+    "skin": "Nakroth Bạch diện chiến thương",
+    "url": ""
+  },
+  {
+    "id": "098",
+    "skin": "Nakroth Killua",
+    "url": ""
+  },
+  {
+    "id": "099",
+    "skin": "Nakroth Lôi Quang Sứ",
+    "url": ""
+  },
+  {
+    "id": "100",
+    "skin": "Nakroth Quỷ thương liệp đế",
+    "url": ""
+  },
+  {
+    "id": "101",
+    "skin": "Nakroth thứ nguyên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "102",
+    "skin": "Natalya Nghiệp Hoả Yêu Hậu",
+    "url": ""
+  },
+  {
+    "id": "103",
+    "skin": "Natalya Nghiệp hỏa yêu hậu",
+    "url": ""
+  },
+  {
+    "id": "104",
+    "skin": "Natalya Nguyệt Ảnh Kiếm Tiên",
+    "url": ""
+  },
+  {
+    "id": "105",
+    "skin": "Ngộ Không Nhóc tỳ bá đạo",
+    "url": ""
+  },
+  {
+    "id": "106",
+    "skin": "Ngộ Không Siêu việt",
+    "url": ""
+  },
+  {
+    "id": "107",
+    "skin": "Ngộ Không Siêu việt 2.0",
+    "url": ""
+  },
+  {
+    "id": "108",
+    "skin": "Ngộ Không Thần Giáp Xích Diễm",
+    "url": ""
+  },
+  {
+    "id": "109",
+    "skin": "Ngộ Không Tân niên Võ Thần",
+    "url": ""
+  },
+  {
+    "id": "110",
+    "skin": "Ngộ Không Tề Thiên Võ Thánh",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_103.png"
+  },
+  {
+    "id": "111",
+    "skin": "Omen Đao phủ tận thế",
+    "url": ""
+  },
+  {
+    "id": "112",
+    "skin": "Paine Tử xà Bá tước",
+    "url": ""
+  },
+  {
+    "id": "113",
+    "skin": "Quillen Nghịch thiên long đế",
+    "url": ""
+  },
+  {
+    "id": "114",
+    "skin": "Quillen Đặc công mãng xà",
+    "url": ""
+  },
+  {
+    "id": "115",
+    "skin": "Raz Bão vũ Cuồng lôi",
+    "url": ""
+  },
+  {
+    "id": "116",
+    "skin": "Raz Chiến thần Muay Thái",
+    "url": ""
+  },
+  {
+    "id": "117",
+    "skin": "Raz Gon",
+    "url": ""
+  },
+  {
+    "id": "118",
+    "skin": "Raz Saitama Cosplay",
+    "url": ""
+  },
+  {
+    "id": "119",
+    "skin": "Raz Siêu việt",
+    "url": ""
+  },
+  {
+    "id": "120",
+    "skin": "Richter Kiếm thần Susanoo",
+    "url": ""
+  },
+  {
+    "id": "121",
+    "skin": "Richter Thần kiếm Susanoo",
+    "url": ""
+  },
+  {
+    "id": "122",
+    "skin": "Rouie Linh Sứ Thời Không",
+    "url": ""
+  },
+  {
+    "id": "123",
+    "skin": "Rourke Bách Tướng Lão Đại",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_100.png"
+  },
+  {
+    "id": "124",
+    "skin": "Ryoma Ailing Samurai",
+    "url": ""
+  },
+  {
+    "id": "125",
+    "skin": "Ryoma Maple Frost",
+    "url": ""
+  },
+  {
+    "id": "126",
+    "skin": "Ryoma Samurai huyền thoại",
+    "url": ""
+  },
+  {
+    "id": "127",
+    "skin": "Ryoma Ultraman",
+    "url": ""
+  },
+  {
+    "id": "128",
+    "skin": "Sephera Bách nhạn ngân linh",
+    "url": ""
+  },
+  {
+    "id": "129",
+    "skin": "Sephera NoVa Stardust",
+    "url": ""
+  },
+  {
+    "id": "130",
+    "skin": "Sinestrea Wave",
+    "url": ""
+  },
+  {
+    "id": "131",
+    "skin": "Sinestrea Wave Phụ Kiện Trắng",
+    "url": ""
+  },
+  {
+    "id": "132",
+    "skin": "Slimz Siêu Cấp Tối Thượng",
+    "url": ""
+  },
+  {
+    "id": "133",
+    "skin": "Stuart Đạo tặc tử quang",
+    "url": ""
+  },
+  {
+    "id": "134",
+    "skin": "Taara Tiệc bãi biển",
+    "url": ""
+  },
+  {
+    "id": "135",
+    "skin": "Tel'Annas Jujutsu Sorcerer",
+    "url": ""
+  },
+  {
+    "id": "136",
+    "skin": "Tel'Annas Thiên Vũ Thần Long",
+    "url": ""
+  },
+  {
+    "id": "137",
+    "skin": "Tel'Annas Thần sứ F.E.E-X1",
+    "url": ""
+  },
+  {
+    "id": "138",
+    "skin": "Tel'Annas Thứ nguyên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "139",
+    "skin": "Tel'Annas Tân niên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "140",
+    "skin": "Tel'Annas Vũ khúc yêu hồ",
+    "url": ""
+  },
+  {
+    "id": "141",
+    "skin": "Triệu Vân Kỵ sĩ tận thế",
+    "url": ""
+  },
+  {
+    "id": "142",
+    "skin": "Triệu Vân Minh Chung Long Đế",
+    "url": ""
+  },
+  {
+    "id": "143",
+    "skin": "Tulen Chí tôn kiếm tiên",
+    "url": ""
+  },
+  {
+    "id": "144",
+    "skin": "Tulen Satoru Gojo",
+    "url": ""
+  },
+  {
+    "id": "145",
+    "skin": "Tulen Thần sứ ST.L-79",
+    "url": ""
+  },
+  {
+    "id": "146",
+    "skin": "Tulen Thần sứ STL-79",
+    "url": ""
+  },
+  {
+    "id": "147",
+    "skin": "Tulen Tiêu Dao Vũ Thần",
+    "url": ""
+  },
+  {
+    "id": "148",
+    "skin": "Tulen Tân niên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "149",
+    "skin": "Tulen Tân thần hoàng kim",
+    "url": ""
+  },
+  {
+    "id": "150",
+    "skin": "Tulen Tân Thần Thiên Hà",
+    "url": ""
+  },
+  {
+    "id": "151",
+    "skin": "Valhein thứ nguyên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "152",
+    "skin": "Valhein Vũ khí tối thượng",
+    "url": ""
+  },
+  {
+    "id": "153",
+    "skin": "Valhein Đệ nhất thần thám",
+    "url": ""
+  },
+  {
+    "id": "154",
+    "skin": "Veera A.I Love you",
+    "url": ""
+  },
+  {
+    "id": "155",
+    "skin": "Veera Phù thủy Hội họa",
+    "url": ""
+  },
+  {
+    "id": "156",
+    "skin": "Veera Thất Sát - Thượng Sinh",
+    "url": ""
+  },
+  {
+    "id": "157",
+    "skin": "Veres Kimono",
+    "url": ""
+  },
+  {
+    "id": "158",
+    "skin": "Veres Lưu ly Long mẫu",
+    "url": ""
+  },
+  {
+    "id": "159",
+    "skin": "Veres Phù thủy trang điểm",
+    "url": ""
+  },
+  {
+    "id": "160",
+    "skin": "Violet Huyết Ma Thần",
+    "url": ""
+  },
+  {
+    "id": "161",
+    "skin": "Violet Nobara Kugisaki",
+    "url": ""
+  },
+  {
+    "id": "162",
+    "skin": "Violet Pháo hoa Neon",
+    "url": ""
+  },
+  {
+    "id": "163",
+    "skin": "Violet Thần long tỷ tỷ",
+    "url": ""
+  },
+  {
+    "id": "164",
+    "skin": "Violet Thứ nguyên vệ thần",
+    "url": ""
+  },
+  {
+    "id": "165",
+    "skin": "Violet Tiệc bãi biển",
+    "url": ""
+  },
+  {
+    "id": "166",
+    "skin": "Violet Vọng nguyệt Long Cơ",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_10.png"
+  },
+  {
+    "id": "167",
+    "skin": "Violet Vợ người ta",
+    "url": ""
+  },
+  {
+    "id": "168",
+    "skin": "Xeniel Ma sứ tận thế",
+    "url": ""
+  },
+  {
+    "id": "169",
+    "skin": "Yan Tanjiro Kamado",
+    "url": ""
+  },
+  {
+    "id": "170",
+    "skin": "Yena Huyền cửu thiên",
+    "url": ""
+  },
+  {
+    "id": "171",
+    "skin": "Yena Trấn Yêu Thần Lộc",
+    "url": "https://github.com/HoshinoKotaSouma/ctvhogo/blob/main/cropped_1.png"
+  },
+  {
+    "id": "172",
+    "skin": "Yena WaVe",
+    "url": ""
+  },
+  {
+    "id": "173",
+    "skin": "Yena Wave Phụ Kiện Trắng",
+    "url": ""
+  },
+  {
+    "id": "174",
+    "skin": "Yorn Ký giả diệu kỳ",
+    "url": ""
+  },
+  {
+    "id": "175",
+    "skin": "Yorn Long thần soái",
+    "url": ""
+  },
+  {
+    "id": "176",
+    "skin": "Yorn Thế Tử Nguyệt Tộc",
+    "url": ""
+  },
+  {
+    "id": "177",
+    "skin": "Yorn Vệ Binh ngân hà",
+    "url": ""
+  },
+  {
+    "id": "178",
+    "skin": "Zata Chí tôn Tà Phượng",
+    "url": ""
+  },
+  {
+    "id": "179",
+    "skin": "Zata Tác gia đương đại",
+    "url": ""
+  },
+  {
+    "id": "180",
+    "skin": "Zephys Inosuke Hashibira",
+    "url": ""
+  },
+  {
+    "id": "181",
+    "skin": "Zephys Kỷ Nguyên Hổ Phách",
+    "url": ""
+  },
+  {
+    "id": "182",
+    "skin": "Zephys Siêu việt",
+    "url": ""
+  },
+  {
+    "id": "183",
+    "skin": "Điêu Thuyền Thất Tịch Tiên Tử",
+    "url": ""
+  },
+  {
+    "id": "184",
+    "skin": "Điêu Thuyền Tiệc bãi biển",
+    "url": ""
+  },
+  {
+    "id": "185",
+    "skin": "Điêu Thuyền Tuế Hàn Đỗ Quyên",
+    "url": ""
+  },
+  {
+    "id": "186",
+    "skin": "Điêu Thuyền WaVe",
+    "url": ""
+  }
+]
