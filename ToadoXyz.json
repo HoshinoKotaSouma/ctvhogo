@@ -1,26 +1,27 @@
 {
   "image": {
-    "url": "https://raw.githubusercontent.com/HoshinoKotaSouma/Maje/main/e248a32c-78ea-481f-bcb7-c9c4a26af888.jpeg",
-    "originalWidth": 807,
-    "originalHeight": 1280
+    "url": "https://raw.githubusercontent.com/HoshinoKotaSouma/ctvhogo/main/fd114188-6aab-4b71-9627-7fdd465c7657.jpeg",
+    "originalWidth": 736,
+    "originalHeight": 816
   },
-  "tuong": {
-    "original": { "x": 246, "y": 660 }
-  },
-  "skin": {
-    "original": { "x": 252, "y": 746 }
-  },
-  "crop": {
-    "original": { "x": -1, "y": 764, "w": 808, "h": 514 }
-  },
-  "extra": {
-    "acc": { "x": 100, "y": 214.1875, "w": 601, "h": 378 },
-    "lichsu": { "x": 612, "y": 233.1875, "w": 81, "h": 345 }
-  },
-  "ms": {
-    "x": 359,
-    "y": 694.1875,
-    "fontSize": 52
-  },
-  "generatedAt": "2025-10-07T00:00:00.000Z"
+  "crops": {
+    "acc": {
+      "x": 37.5,
+      "y": 53.1875,
+      "w": 659,
+      "h": 359
+    },
+    "lsd": {
+      "x": 589.5,
+      "y": 84.1875,
+      "w": 91,
+      "h": 305
+    },
+    "skins": {
+      "x": 11.5,
+      "y": 415.1875,
+      "w": 713,
+      "h": 391
+    }
+  }
 }
