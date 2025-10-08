@@ -1,26 +1,46 @@
 {
-  "image": {
-    "url": "https://raw.githubusercontent.com/HoshinoKotaSouma/.A/main/33bd2b47-761a-4dbe-aba4-ccaf3c242eca.jpeg",
-    "originalWidth": 736,
-    "originalHeight": 816
+  "avatarCrop": {
+    "x": 14,
+    "y": 103,
+    "w": 41,
+    "h": 38
   },
-  "tuong": {
-    "original": { "x": 289, "y": 315 }
+  "rankCrop": {
+    "x": 67,
+    "y": 161,
+    "w": 134,
+    "h": 65
   },
-  "skin": {
-    "original": { "x": 289, "y": 387 }
+  "numTuong": {
+    "x": 33,
+    "y": 176,
+    "w": 29,
+    "h": 14
   },
-  "crop": {
-    "original": { "x": 0, "y": 413, "w": 732, "h": 395 }
+  "numSkin": {
+    "x": 33,
+    "y": 205,
+    "w": 30,
+    "h": 13
   },
-  "extra": {
-    "acc": { "x": 3.5, "y": 4.1875, "w": 731, "h": 408 },
-    "lichsu": { "x": 613.5, "y": 2.1875, "w": 116, "h": 410 }
-  },
-  "ms": {
-    "x": 377.421875,
-    "y": 349.1875,
-    "fontSize": 52
-  },
-  "generatedAt": "2025-10-07T00:00:00.000Z"
+  "skinsCrops": [
+    {
+      "x": 206,
+      "y": 89,
+      "w": 614,
+      "h": 354
+    },
+    {
+      "x": 62,
+      "y": 90,
+      "w": 146,
+      "h": 64
+    },
+    {
+      "x": 10,
+      "y": 228,
+      "w": 193,
+      "h": 212
+    }
+  ]
 }
