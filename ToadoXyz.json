@@ -1,46 +1,27 @@
 {
-  "avatarCrop": {
-    "x": 14,
-    "y": 103,
-    "w": 41,
-    "h": 38
+  "image": {
+    "url": "https://raw.githubusercontent.com/HoshinoKotaSouma/ctvhogo/main/fd114188-6aab-4b71-9627-7fdd465c7657.jpeg",
+    "originalWidth": 736,
+    "originalHeight": 816
   },
-  "rankCrop": {
-    "x": 67,
-    "y": 161,
-    "w": 134,
-    "h": 65
-  },
-  "numTuong": {
-    "x": 33,
-    "y": 176,
-    "w": 29,
-    "h": 14
-  },
-  "numSkin": {
-    "x": 33,
-    "y": 205,
-    "w": 30,
-    "h": 13
-  },
-  "skinsCrops": [
-    {
-      "x": 206,
-      "y": 89,
-      "w": 614,
-      "h": 354
+  "crops": {
+    "acc": {
+      "x": 37.5,
+      "y": 53.1875,
+      "w": 659,
+      "h": 359
     },
-    {
-      "x": 62,
-      "y": 90,
-      "w": 146,
-      "h": 64
+    "lsd": {
+      "x": 589.5,
+      "y": 84.1875,
+      "w": 91,
+      "h": 305
     },
-    {
-      "x": 10,
-      "y": 228,
-      "w": 193,
-      "h": 212
+    "skins": {
+      "x": 11.5,
+      "y": 415.1875,
+      "w": 713,
+      "h": 391
     }
-  ]
+  }
 }
